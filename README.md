@@ -1,2 +1,6 @@
 # Random-Band-Name-Generator
-Having trouble thinking of your band name? Problem solved baby
+
+print(“Welcome to the Band Name Generator.”)
+city=input (“What’s name of the city you grew up in?\n”)
+pet=input (“What’s your pet’s name?\n”)
+print(“Your band name could be “ +city+ “ “ +pet)
